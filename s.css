@@ -1,0 +1,13 @@
+body{
+    background-image: url(bg1.jpg);
+    background-size:cover;
+}
+.cri{
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-evenly;
+}
+a :hover{
+    width: 230px;
+    border-radius: 15%;    
+}
